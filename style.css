@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.im{
+    padding: 20px;
+    margin-left: 500px;
+}
+h1{
+    text-align: center;
+}
+input,button{
+    width: 200px;
+}
+button{
+    background-color: royalblue;
+}
+img{
+ padding-left: 20px;
+}
